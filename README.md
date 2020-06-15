@@ -12,5 +12,10 @@ In this file, I generated embeddings from the test dataset. by embeddings, we ca
 ### Principal component analysis 
 ![Alt Text](https://github.com/kmpatel100/Predict-Real-images-with-FashionMINIST/blob/master/Media/PCA.gif)
 
+
 ### t-distributed stochastic neighbor embedding
 ![Alt Text](https://github.com/kmpatel100/Predict-Real-images-with-FashionMINIST/blob/master/Media/T-SNE.gif)
+
+
+#### Note: 
+If you want to generate Visualization, you need to follow the steps given in Report.pdf because due to the larger size, I can not import all the files.
